@@ -232,17 +232,17 @@ While powerful, the current version of our IDS system has some limitations that 
 | Name                   | Role                                | Contributions                                            |
 |------------------------|-------------------------------------|----------------------------------------------------------|
 | **Amit Kumar Behera**  | Project Lead, ML & IoT Developer    | Model training, firewall integration, system architect   |
-| **Shashi Ranjan Kumar**| Frontend & Dashboard Developer      | Flask app, real-time chart integration                   |
+| **Shashi Ranjan Kumar**| Frontend & Dashboard Developer & Researcher     | Flask app, real-time chart integration                   |
 | **Uttam Kumar**        | Dataset Preprocessing & Feature Selection | Cleaned and extracted top 10 features              |
 | **Santosh Kumar**      | Penetration Testing & QA            | hping3, hydra attack simulation, stress testing          |
-| **Aman Kumar**         | UI/UX Interface Designer            | Designed user interface, improved user experience, dashboard layout |
+
 
 ## 📞 Contact
 
 If you're interested in deploying or supporting this project:
 
--  Phone 2: **+91-9471608894**
-- 🌐 GitHub: [github.com/AmanKumar](https://github.com/AmanKumargolu)
+-  Phone 2: **+91-9431899405**
+- 🌐 GitHub: 
 - 🧪 Project Demo: _Available upon request or during live hackathon presentation_
 
 > _Let’s make cybersecurity accessible, intelligent, and affordable for every corner of India._
