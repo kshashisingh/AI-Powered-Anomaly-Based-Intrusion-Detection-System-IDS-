@@ -227,14 +227,7 @@ While powerful, the current version of our IDS system has some limitations that 
 
 ---
 
-## 👥 Team Members
 
-| Name                   | Role                                | Contributions                                            |
-|------------------------|-------------------------------------|----------------------------------------------------------|
-| **Amit Kumar Behera**  | Project Lead, ML & IoT Developer    | Model training, firewall integration, system architect   |
-| **Shashi Ranjan Kumar**| Frontend & Dashboard Developer & Researcher     | Flask app, real-time chart integration                   |
-| **Uttam Kumar**        | Dataset Preprocessing & Feature Selection | Cleaned and extracted top 10 features              |
-| **Santosh Kumar**      | Penetration Testing & QA            | hping3, hydra attack simulation, stress testing          |
 
 
 ## 📞 Contact
